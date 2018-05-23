@@ -3,7 +3,6 @@
     "description": "composer study",
     "type": "ject",
     "require": {
-	    "houdunwang/hdphp": "dev-master"
     },
     "license": "MIT",
     "authors": [
