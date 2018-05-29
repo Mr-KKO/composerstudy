@@ -11,5 +11,12 @@
             "email": "1203132312@qq.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "autoload": {
+        "files": ["Kko/functions.php"],
+        "psr-4": {
+            "Kko\\": "Kko/",
+            "app\\": "app/"
+        }
+    }
 }

@@ -1,5 +1,5 @@
 <?php
 
-include "vender/autoload.php";
+include_once "vendor/autoload.php";
 
 \Kko\Bootstrap::run();
