@@ -3,6 +3,7 @@
     "description": "composer study",
     "type": "ject",
     "require": {
+        "php": ">=5.6.0"
     },
     "license": "MIT",
     "authors": [
