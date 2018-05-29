@@ -36,5 +36,6 @@ class Bootstrap
     public static function getController(){
 	    return self::$controller;
     }
+
 }
 

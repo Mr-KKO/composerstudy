@@ -1,11 +1,5 @@
 <?php
 
-/**
- * Created by PhpStorm.
- * User: Administrator
- * Date: 2018/5/28 0028
- * Time: 20:34
- */
 namespace app\Controller;
 
 class IndexController
@@ -18,5 +12,6 @@ class IndexController
     public function show(){
         pp(time());
     }
+
 
 }
