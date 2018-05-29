@@ -16,6 +16,7 @@
             display: table;
             font-weight: 100;
             font-family: 'Great Vibes', cursive;
+            color: #544669;
         }
 
         .container {
@@ -30,11 +31,11 @@
         }
 
         .title {
-            font-size: 96px;
+            font-size: 10rem;
         }
 
         .slogan {
-            font-size: 66px;
+            font-size: 4rem;
         }
     </style>
 
