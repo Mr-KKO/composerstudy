@@ -26,7 +26,7 @@ class Bootstrap
         self::$controller = $controller;
         self::$action = $action;
 
-        (new $class)->$action();
+       echo (new $class)->$action();
     }
 
     public static function getAction(){
